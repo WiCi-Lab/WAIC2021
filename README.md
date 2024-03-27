@@ -1,4 +1,4 @@
-This project placed fourth in the Wireless Communication AI Competition (WAIC)
+This project placed fourth in the Wireless Communication AI Competition (WAIC) 2021
 
 Competition Task Name：AI-based Channel Estimation
 
